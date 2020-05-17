@@ -1,0 +1,174 @@
+12:961  2:877  Found BIOS RSDP at %p
+12:961  0:000  Printing ACPI tables from RSDP %p ...
+12:961  0:000   %p: 'RSD PTR LENOVO(Ð"Ø$', Rev: -909467401 (Acpi 2.0 or newer), Len: 36
+12:961  0:000    (Xsdt: %p, Rsdt: %p)
+12:961  0:000    %p: 'XSDTÔ', 'XSDT', Rev: -909467577, Len: 1
+12:961  0:000    %p: 'RSDT|', 'RSDT', Rev: -909467577, Len: 1
+12:961  0:000    Tables in Xsdt: 22
+12:961  0:000    0. %p: 'FACP', 'FACP', Rev: -909467577, Len: 6
+12:961  0:000        (Dsdt: D822D210, Facs: D8A75C40, XDsdt: d822d210, XFacs: 0)
+12:961  0:000        %p: 'DSDTä', 'DSDT', Rev: -909467721, Len: 2
+12:963  0:001        %p: 'FACS@', Ver: -909467557, Len: 2
+12:963  0:000    1. %p: 'APIC„', 'APIC', Rev: -909467577, Len: 3
+12:963  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -909467577, Len: 1
+12:963  0:000    3. %p: 'MCFG<', 'MCFG', Rev: -909467577, Len: 1
+12:963  0:000    4. %p: 'SSDT¼', 'SSDT', Rev: -909467577, Len: 1
+12:963  0:000    5. %p: 'FIDTœ', 'FIDT', Rev: -909467577, Len: 1
+12:963  0:000    6. %p: 'SSDTY1', 'SSDT', Rev: -909467577, Len: 2
+12:963  0:000    7. %p: 'SSDTè&', 'SSDT', Rev: -909467577, Len: 2
+12:963  0:000    8. %p: 'HPET8', 'HPET', Rev: -909467577, Len: 1
+12:963  0:000    9. %p: 'SSDTY', 'SSDT', Rev: -909467577, Len: 2
+12:963  0:000    10. %p: 'UEFIB', 'UEFI', Rev: -909467577, Len: 1
+12:963  0:000    11. %p: 'SSDT', 'SSDT', Rev: -909467577, Len: 2
+12:963  0:000    12. %p: 'LPIT”', 'LPIT', Rev: -909467577, Len: 1
+12:963  0:000    13. %p: 'WSMT(', 'WSMT', Rev: -909467577, Len: 1
+12:963  0:000    14. %p: 'SSDTŸ', 'SSDT', Rev: -909467577, Len: 2
+12:963  0:000    15. %p: 'SSDT0', 'SSDT', Rev: -909467577, Len: 2
+12:963  0:000    16. %p: 'DBGP4', 'DBGP', Rev: -909467577, Len: 1
+12:963  0:000    17. %p: 'DBG2T', 'DBG2', Rev: -909467577, Len: 0
+12:963  0:000    18. %p: 'DMAR¨', 'DMAR', Rev: -909467577, Len: 1
+12:963  0:000    19. %p: 'BGRT8', 'BGRT', Rev: -909467577, Len: 1
+12:963  0:000    20. %p: 'LUFTâI', 'LUFT', Rev: -909467577, Len: 1
+12:963  0:000    21. %p: 'ASF! ', 'ASF!', Rev: -909467577, Len: 32
+12:963  0:000    Tables in Rsdt: 22
+12:963  0:000    0. %p: 'FACP„', 'FACP', Rev: -909467577, Len: 2
+12:963  0:000        (Dsdt: D822D210, Facs: D8A75C00)
+12:963  0:000        %p: 'DSDTä', 'DSDT', Rev: -909467721, Len: 2
+12:964  0:001        %p: 'FACS@', Ver: -909467557, Len: 0
+12:964  0:000    1. %p: 'APIC„', 'APIC', Rev: -909467577, Len: 3
+12:964  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -909467577, Len: 1
+12:964  0:000    3. %p: 'MCFG<', 'MCFG', Rev: -909467577, Len: 1
+12:964  0:000    4. %p: 'SSDT¼', 'SSDT', Rev: -909467577, Len: 1
+12:964  0:000    5. %p: 'FIDTœ', 'FIDT', Rev: -909467577, Len: 1
+12:964  0:000    6. %p: 'SSDTY1', 'SSDT', Rev: -909467577, Len: 2
+12:964  0:000    7. %p: 'SSDTè&', 'SSDT', Rev: -909467577, Len: 2
+12:964  0:000    8. %p: 'HPET8', 'HPET', Rev: -909467577, Len: 1
+12:964  0:000    9. %p: 'SSDTY', 'SSDT', Rev: -909467577, Len: 2
+12:964  0:000    10. %p: 'UEFIB', 'UEFI', Rev: -909467577, Len: 1
+12:964  0:000    11. %p: 'SSDT', 'SSDT', Rev: -909467577, Len: 2
+12:964  0:000    12. %p: 'LPIT”', 'LPIT', Rev: -909467577, Len: 1
+12:964  0:000    13. %p: 'WSMT(', 'WSMT', Rev: -909467577, Len: 1
+12:964  0:000    14. %p: 'SSDTŸ', 'SSDT', Rev: -909467577, Len: 2
+12:964  0:000    15. %p: 'SSDT0', 'SSDT', Rev: -909467577, Len: 2
+12:964  0:000    16. %p: 'DBGP4', 'DBGP', Rev: -909467577, Len: 1
+12:964  0:000    17. %p: 'DBG2T', 'DBG2', Rev: -909467577, Len: 0
+12:964  0:000    18. %p: 'DMAR¨', 'DMAR', Rev: -909467577, Len: 1
+12:964  0:000    19. %p: 'BGRT8', 'BGRT', Rev: -909467577, Len: 1
+12:964  0:000    20. %p: 'LUFTâI', 'LUFT', Rev: -909467577, Len: 1
+12:964  0:000    21. %p: 'ASF! ', 'ASF!', Rev: -909467577, Len: 32
+12:964  0:000  Found UEFI Acpi 2.0 RSDP at %p
+12:964  0:000  Saving ACPI tables from RSDP %p to å’â„å‘â’ä°šä¹…å™Éí€¨$ ...
+12:964  0:000   %p: 'RSD PTR LENOVO(Ð"Ø$', Rev: -909467401 (Acpi 2.0 or newer), Len: 36
+12:964  0:000    (Xsdt: %p, Rsdt: %p)
+12:964  0:000    %p: 'XSDTÔ', 'XSDT', Rev: -909467577, Len: 1
+12:964  0:000    %p: 'RSDT|', 'RSDT', Rev: -909467577, Len: 1
+12:964  0:000    Tables in Xsdt: 22
+12:964  0:000    0. %p: 'FACP', 'FACP', Rev: -909467577, Len: 6
+12:964  0:000        (Dsdt: D822D210, Facs: D8A75C40, XDsdt: d822d210, XFacs: 0)
+12:964  0:000        %p: 'DSDTä', 'DSDT', Rev: -909467721, Len: 2
+12:966  0:001        %p: 'FACS@', Ver: -909467557, Len: 2
+12:966  0:000    1. %p: 'APIC„', 'APIC', Rev: -909467577, Len: 3
+12:966  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -909467577, Len: 1
+12:966  0:000    3. %p: 'MCFG<', 'MCFG', Rev: -909467577, Len: 1
+12:966  0:000    4. %p: 'SSDT¼', 'SSDT', Rev: -909467577, Len: 1
+12:966  0:000    5. %p: 'FIDTœ', 'FIDT', Rev: -909467577, Len: 1
+12:966  0:000    6. %p: 'SSDTY1', 'SSDT', Rev: -909467577, Len: 2
+12:966  0:000    7. %p: 'SSDTè&', 'SSDT', Rev: -909467577, Len: 2
+12:966  0:000    8. %p: 'HPET8', 'HPET', Rev: -909467577, Len: 1
+12:966  0:000    9. %p: 'SSDTY', 'SSDT', Rev: -909467577, Len: 2
+12:966  0:000    10. %p: 'UEFIB', 'UEFI', Rev: -909467577, Len: 1
+12:966  0:000    11. %p: 'SSDT', 'SSDT', Rev: -909467577, Len: 2
+12:966  0:000    12. %p: 'LPIT”', 'LPIT', Rev: -909467577, Len: 1
+12:966  0:000    13. %p: 'WSMT(', 'WSMT', Rev: -909467577, Len: 1
+12:966  0:000    14. %p: 'SSDTŸ', 'SSDT', Rev: -909467577, Len: 2
+12:966  0:000    15. %p: 'SSDT0', 'SSDT', Rev: -909467577, Len: 2
+12:966  0:000    16. %p: 'DBGP4', 'DBGP', Rev: -909467577, Len: 1
+12:966  0:000    17. %p: 'DBG2T', 'DBG2', Rev: -909467577, Len: 0
+12:966  0:000    18. %p: 'DMAR¨', 'DMAR', Rev: -909467577, Len: 1
+12:966  0:000    19. %p: 'BGRT8', 'BGRT', Rev: -909467577, Len: 1
+12:966  0:000    20. %p: 'LUFTâI', 'LUFT', Rev: -909467577, Len: 1
+12:966  0:000    21. %p: 'ASF! ', 'ASF!', Rev: -909467577, Len: 32
+12:966  0:000    Tables in Rsdt: 22
+12:966  0:000    0. %p: 'FACP„', 'FACP', Rev: -909467577, Len: 2
+12:966  0:000        (Dsdt: D822D210, Facs: D8A75C00)
+12:966  0:000        %p: 'DSDTä', 'DSDT', Rev: -909467721, Len: 2
+12:968  0:001        %p: 'FACS@', Ver: -909467557, Len: 0
+12:968  0:000    1. %p: 'APIC„', 'APIC', Rev: -909467577, Len: 3
+12:968  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -909467577, Len: 1
+12:968  0:000    3. %p: 'MCFG<', 'MCFG', Rev: -909467577, Len: 1
+12:968  0:000    4. %p: 'SSDT¼', 'SSDT', Rev: -909467577, Len: 1
+12:968  0:000    5. %p: 'FIDTœ', 'FIDT', Rev: -909467577, Len: 1
+12:968  0:000    6. %p: 'SSDTY1', 'SSDT', Rev: -909467577, Len: 2
+12:968  0:000    7. %p: 'SSDTè&', 'SSDT', Rev: -909467577, Len: 2
+12:968  0:000    8. %p: 'HPET8', 'HPET', Rev: -909467577, Len: 1
+12:968  0:000    9. %p: 'SSDTY', 'SSDT', Rev: -909467577, Len: 2
+12:968  0:000    10. %p: 'UEFIB', 'UEFI', Rev: -909467577, Len: 1
+12:968  0:000    11. %p: 'SSDT', 'SSDT', Rev: -909467577, Len: 2
+12:968  0:000    12. %p: 'LPIT”', 'LPIT', Rev: -909467577, Len: 1
+12:968  0:000    13. %p: 'WSMT(', 'WSMT', Rev: -909467577, Len: 1
+12:968  0:000    14. %p: 'SSDTŸ', 'SSDT', Rev: -909467577, Len: 2
+12:968  0:000    15. %p: 'SSDT0', 'SSDT', Rev: -909467577, Len: 2
+12:968  0:000    16. %p: 'DBGP4', 'DBGP', Rev: -909467577, Len: 1
+12:968  0:000    17. %p: 'DBG2T', 'DBG2', Rev: -909467577, Len: 0
+12:968  0:000    18. %p: 'DMAR¨', 'DMAR', Rev: -909467577, Len: 1
+12:968  0:000    19. %p: 'BGRT8', 'BGRT', Rev: -909467577, Len: 1
+12:968  0:000    20. %p: 'LUFTâI', 'LUFT', Rev: -909467577, Len: 1
+12:968  0:000    21. %p: 'ASF! ', 'ASF!', Rev: -909467577, Len: 32
+12:968  0:000  Found UEFI Acpi 1.0 RSDP at %p
+12:968  0:000  Printing ACPI tables from RSDP %p ...
+12:968  0:000   %p: 'RSD PTR LENOVO(Ð"Ø$', Rev: -909467401 (Acpi 2.0 or newer), Len: 36
+12:968  0:000    (Xsdt: %p, Rsdt: %p)
+12:968  0:000    %p: 'XSDTÔ', 'XSDT', Rev: -909467577, Len: 1
+12:968  0:000    %p: 'RSDT|', 'RSDT', Rev: -909467577, Len: 1
+12:968  0:000    Tables in Xsdt: 22
+12:968  0:000    0. %p: 'FACP', 'FACP', Rev: -909467577, Len: 6
+12:968  0:000        (Dsdt: D822D210, Facs: D8A75C40, XDsdt: d822d210, XFacs: 0)
+12:968  0:000        %p: 'DSDTä', 'DSDT', Rev: -909467721, Len: 2
+12:969  0:001        %p: 'FACS@', Ver: -909467557, Len: 2
+12:969  0:000    1. %p: 'APIC„', 'APIC', Rev: -909467577, Len: 3
+12:969  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -909467577, Len: 1
+12:969  0:000    3. %p: 'MCFG<', 'MCFG', Rev: -909467577, Len: 1
+12:969  0:000    4. %p: 'SSDT¼', 'SSDT', Rev: -909467577, Len: 1
+12:969  0:000    5. %p: 'FIDTœ', 'FIDT', Rev: -909467577, Len: 1
+12:969  0:000    6. %p: 'SSDTY1', 'SSDT', Rev: -909467577, Len: 2
+12:969  0:000    7. %p: 'SSDTè&', 'SSDT', Rev: -909467577, Len: 2
+12:969  0:000    8. %p: 'HPET8', 'HPET', Rev: -909467577, Len: 1
+12:969  0:000    9. %p: 'SSDTY', 'SSDT', Rev: -909467577, Len: 2
+12:969  0:000    10. %p: 'UEFIB', 'UEFI', Rev: -909467577, Len: 1
+12:969  0:000    11. %p: 'SSDT', 'SSDT', Rev: -909467577, Len: 2
+12:969  0:000    12. %p: 'LPIT”', 'LPIT', Rev: -909467577, Len: 1
+12:969  0:000    13. %p: 'WSMT(', 'WSMT', Rev: -909467577, Len: 1
+12:969  0:000    14. %p: 'SSDTŸ', 'SSDT', Rev: -909467577, Len: 2
+12:969  0:000    15. %p: 'SSDT0', 'SSDT', Rev: -909467577, Len: 2
+12:969  0:000    16. %p: 'DBGP4', 'DBGP', Rev: -909467577, Len: 1
+12:969  0:000    17. %p: 'DBG2T', 'DBG2', Rev: -909467577, Len: 0
+12:969  0:000    18. %p: 'DMAR¨', 'DMAR', Rev: -909467577, Len: 1
+12:969  0:000    19. %p: 'BGRT8', 'BGRT', Rev: -909467577, Len: 1
+12:969  0:000    20. %p: 'LUFTâI', 'LUFT', Rev: -909467577, Len: 1
+12:969  0:000    21. %p: 'ASF! ', 'ASF!', Rev: -909467577, Len: 32
+12:969  0:000    Tables in Rsdt: 22
+12:969  0:000    0. %p: 'FACP„', 'FACP', Rev: -909467577, Len: 2
+12:969  0:000        (Dsdt: D822D210, Facs: D8A75C00)
+12:969  0:000        %p: 'DSDTä', 'DSDT', Rev: -909467721, Len: 2
+12:971  0:001        %p: 'FACS@', Ver: -909467557, Len: 0
+12:971  0:000    1. %p: 'APIC„', 'APIC', Rev: -909467577, Len: 3
+12:971  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -909467577, Len: 1
+12:971  0:000    3. %p: 'MCFG<', 'MCFG', Rev: -909467577, Len: 1
+12:971  0:000    4. %p: 'SSDT¼', 'SSDT', Rev: -909467577, Len: 1
+12:971  0:000    5. %p: 'FIDTœ', 'FIDT', Rev: -909467577, Len: 1
+12:971  0:000    6. %p: 'SSDTY1', 'SSDT', Rev: -909467577, Len: 2
+12:971  0:000    7. %p: 'SSDTè&', 'SSDT', Rev: -909467577, Len: 2
+12:971  0:000    8. %p: 'HPET8', 'HPET', Rev: -909467577, Len: 1
+12:971  0:000    9. %p: 'SSDTY', 'SSDT', Rev: -909467577, Len: 2
+12:971  0:000    10. %p: 'UEFIB', 'UEFI', Rev: -909467577, Len: 1
+12:971  0:000    11. %p: 'SSDT', 'SSDT', Rev: -909467577, Len: 2
+12:971  0:000    12. %p: 'LPIT”', 'LPIT', Rev: -909467577, Len: 1
+12:971  0:000    13. %p: 'WSMT(', 'WSMT', Rev: -909467577, Len: 1
+12:971  0:000    14. %p: 'SSDTŸ', 'SSDT', Rev: -909467577, Len: 2
+12:971  0:000    15. %p: 'SSDT0', 'SSDT', Rev: -909467577, Len: 2
+12:971  0:000    16. %p: 'DBGP4', 'DBGP', Rev: -909467577, Len: 1
+12:971  0:000    17. %p: 'DBG2T', 'DBG2', Rev: -909467577, Len: 0
+12:971  0:000    18. %p: 'DMAR¨', 'DMAR', Rev: -909467577, Len: 1
+12:971  0:000    19. %p: 'BGRT8', 'BGRT', Rev: -909467577, Len: 1
+12:971  0:000    20. %p: 'LUFTâI', 'LUFT', Rev: -909467577, Len: 1
+12:971  0:000    21. %p: 'ASF! ', 'ASF!', Rev: -909467577, Len: 32

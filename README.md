@@ -5,7 +5,7 @@
 |   规格   |                           详细信息                           |
 | :------: | :----------------------------------------------------------: |
 | 电脑型号 |                       联想Lenovo M710q                       |
-| 操作系统 |                        macOS Big Sur                         |
+| 操作系统 |                 macOS `Monterey` / `Big Sur`                 |
 |  处理器  |                    英特尔 酷睿 i3 - 9100                     |
 |   内存   |                             16GB                             |
 |  硬盘1   |                          UMIS 512GB                          |
@@ -17,6 +17,9 @@
 
 ## 更新日志
 
+- 11-8-2021
+  - `OpenCore` `v0.7.6`
+  -  支持 `Monterey` 安装使用
 - 2-18-2021
   - `OpenCore` `v0.6.6`
 - 6-17-2020
@@ -30,7 +33,9 @@
 
 ![Hackintool2](./images/Hackintool2.png)
 
-![20D75](./images/20D75.png)
+![21A559](./images/21A559.png)
+
+![Sensei](./images/Sensei.png)
 
 ![M710Q](./images/M710Q.png)
 
